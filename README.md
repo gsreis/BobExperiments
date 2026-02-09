@@ -10,3 +10,6 @@ Neste exemplo foi utilizado o programa microinvader, um jogo criado como exemplo
 
 ### JurassicBob
 Como utilizar apenas uma gota de sangue, ou um snippet de uma classe para gerar um código completo ? Vamos utilizar o Bob como em Jurassic Park, para gerar um código completo com informações esparsas.
+
+### Bob e AMA
+Como economizar tokens em migrações massivas de aplicações? Será que você não está gastando tokens demais para suas modernizações ? Aprenda a ajudar o Bob a fazer análises mais rapidamente, com esta dica 
