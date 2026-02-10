@@ -13,3 +13,6 @@ Como utilizar apenas uma gota de sangue, ou um snippet de uma classe para gerar 
 
 ### Bob e AMA
 Como economizar tokens em migrações massivas de aplicações? Será que você não está gastando tokens demais para suas modernizações ? Aprenda a ajudar o Bob a fazer análises mais rapidamente, com esta dica 
+
+### cerebrosBob
+Como construir uma fábrica de cérebros utilizando modelos LLM generativos em minutos? Você pode aprender a usar as APIs do Hugging Faces ou simplesmente pular etapas chatas de criação de ambientes iniciais para treinamento e experimentos com modelos generativos
