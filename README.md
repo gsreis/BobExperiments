@@ -16,3 +16,7 @@ Como economizar tokens em migrações massivas de aplicações? Será que você 
 
 ### cerebrosBob
 Como construir uma fábrica de cérebros utilizando modelos LLM generativos em minutos? Você pode aprender a usar as APIs do Hugging Faces ou simplesmente pular etapas chatas de criação de ambientes iniciais para treinamento e experimentos com modelos generativos
+
+### recriando um projeto Maven e todas as dependências a partir do código JAVA apenas
+Veja como é possível pegar um conjunto de classes soltas, e reconstruir o POM e ainda gerar uma documentação sobre os códigos em alguns minutos
+
